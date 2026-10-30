@@ -1,0 +1,1 @@
+<img src="{{ asset('innovshop-logo-light.png') }}" {{ $attributes->merge(['class' => 'w-10 h-auto']) }} />
