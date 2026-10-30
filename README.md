@@ -52,4 +52,4 @@ php artisan strorage:link
 
 8. **Run the Application**
 
-php artisan storage:link
+php artisan serve
